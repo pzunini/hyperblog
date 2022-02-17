@@ -1,3 +1,3 @@
-# git-test
+# hyperblog-platzi
 
-Git test repository
+Practica de Git del curso de Platzi
