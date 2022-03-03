@@ -1,3 +1,3 @@
-# hyperblog-platzi
+# hyperblog
 
-Practica de Git del curso de Platzi
+Practica de Git
